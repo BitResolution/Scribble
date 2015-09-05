@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/BitResolution/Scribble.png?label=ready&title=Ready)](https://waffle.io/BitResolution/Scribble)
 Scribble
 ========
 
